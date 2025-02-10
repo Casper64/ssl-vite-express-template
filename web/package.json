@@ -1,0 +1,14 @@
+{
+  "name": "@template/web",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "tsc --noEmit && vite build --mode preview && vite preview"
+  },
+  "devDependencies": {
+    "glob": "^10.4.5",
+    "vite": "^6.1.0"
+  }
+}
