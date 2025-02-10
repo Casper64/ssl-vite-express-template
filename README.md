@@ -1,4 +1,9 @@
-# Passkeys example
+# Vite express SSL template
+
+This repository can be used as a template for fullstack projects.
+
+Frontend is ts only, backend uses express and both are server via an HTTPS dev server.
+So you can use HTTPS-specific features, like secure cookies, while developing.
 
 ## Usage
 
